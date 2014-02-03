@@ -1,3 +1,5 @@
+//#define GLFW_INCLUDE_ES2 1
+
 #include <GLFW/glfw3.h>
 #include <iostream>
 #include <cstdlib>
